@@ -1,4 +1,7 @@
 3
-Nasim 1 90
-Nazmul 2 85
-Hasan 3 95
+Nasim Hosen
+1 90
+Nazmul Bhai
+2 85
+Hasan Bahi
+3 95
